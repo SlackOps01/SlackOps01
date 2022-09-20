@@ -1,4 +1,4 @@
-<h1 align="center"><img align="center" src=https://gist.github.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif alt="Nigeria" width="40" height="40"/></h1>
+<h1 align="center"><img align="center" src=https://gist.github.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif alt="programmingGif"/></h1>
 <h1 align="center">Hi 👋, I'm Sholarin Olanrewaju</h1>
 <h3 align="center">A passionate Python developer from Nigeria <img align="center" src=https://cdn-icons-png.flaticon.com/512/317/317262.png alt="Nigeria" width="40" height="40"/></h3>
 

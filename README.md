@@ -19,7 +19,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=slackops01&show_icons=true&locale=en&theme=algolia" alt="slackops01" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=slackops01&show_icons=true&locale=en&theme=algolia" alt="slackops01" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=slackops01&show_icons=true&locale=en&theme=algolia" alt="slackops01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=slackops01&theme=algolia" alt="slackops01" /></p>
 <h2>I still have a long way to go<h2>

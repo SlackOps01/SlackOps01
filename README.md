@@ -4,7 +4,7 @@
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=200&center=true&vCenter=true&width=435&lines=Senior+Python+Developer;I+wish+.+.+.;Aspiring+Python+Developer" alt="Typing SVG" /></a></h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=slackops01&label=Profile%20views&color=0e75b6&style=flat" alt="slackops01" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=slackops01&theme=onedarkalt="slackops01"/></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=slackops01&theme=onedarkalt="slackops01"></a> </p>
 
 - 🤝 I’m looking for help with **Experience**
 

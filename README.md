@@ -1,4 +1,4 @@
-<h1 align="center"><img align="center" src=nervous.gif alt="techgif"/></h1>
+<h1 align="center"><img align="center" src=angry.gif alt="techgif"/></h1>
 <h1 align="center">Hi <img align="center" src=https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif alt="handwave" width ="40" height="40"/>, I'm Sholarin Olanrewaju</h1>
 <h3 align="center">A passionate Python developer from Nigeria <img align="center" src=https://cdn-icons-png.flaticon.com/512/317/317262.png alt="Nigeria" width="40" height="40"/></h3>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=200&center=true&vCenter=true&width=435&lines=Senior+Python+Developer;I+wish+.+.+.;Aspiring+Python+Developer" alt="Typing SVG" /></a></h3>

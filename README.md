@@ -26,4 +26,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=slackops01&theme=algolia" alt="slackops01" /></p>
 <h2>Contribution Graph</h2>
 <p><img src="https://activity-graph.herokuapp.com/graph?username=slackops01&theme=rogue" alt="Contribution Chart:"/></p>
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
+<img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark" alt="random quote"/>

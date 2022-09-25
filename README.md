@@ -26,5 +26,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=slackops01&theme=algolia" alt="slackops01" /></p>
 <h2>Contribution Graph</h2>
 <p><img src="https://activity-graph.herokuapp.com/graph?username=slackops01&theme=rogue" alt="Contribution Chart:"/></p>
-<h3>Motivational quote to get through the day</h3>
-<img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark" alt="random quote"/>
+<h3>Random joke to get you through the day</h3>
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />

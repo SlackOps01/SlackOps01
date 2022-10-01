@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=slackops01&theme=algolia" alt="slackops01" /></a> </p>
 
-- 🤝 I’m looking for help with **Experience**
+- 🤝 I’m looking for help with **Job Experience**
 
 - 📫 How to reach me **olanrewajusholarin5@gmail.com**
 

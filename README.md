@@ -26,3 +26,19 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=slackops01&theme=algolia" alt="slackops01" /></p>
 <h3>Random joke to get you through the day</h3>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
+<button onclick="getQuote()">Get Quote</button>
+
+<div id="quote"></div>
+
+<script>
+function getQuote() {
+  fetch('https://example.com/api/quotes](https://n5ekou.deta.dev/api/quotes')
+    .then(response => response.json())
+    .then(data => {
+      const quoteElement = document.getElementById('quote');
+      quoteElement.innerHTML = `<blockquote>${data.quote}</blockquote><cite>${data.author}</cite>`;
+    })
+    .catch(error => console.error(error));
+}
+</script>

@@ -1,7 +1,7 @@
 <h1 align="center"><img align="center" src=tech.gif alt="techgif"/></h1>
 <h1 align="center">Hi <img align="center" src=https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif alt="handwave" width ="40" height="40"/>, I'm Sholarin Olanrewaju</h1>
 <h3 align="center">A passionate Cybersecurity Analyst from Nigeria <img align="center" src=https://cdn-icons-png.flaticon.com/512/317/317262.png alt="Nigeria" width="40" height="40"/></h3>
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Junior+Cybersecurity+Analyst;Python+Developer;Google+Certified+in+Cybersecurity+;IS-100.C+Certified" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Junior+Cybersecurity+Analyst;Python+Developer;Google+Certified+in+Cybersecurity+;IS-100.C+Certified" alt="Typing SVG" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=slackops01&label=Profile%20views&color=0e75b6&style=flat" alt="slackops01" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=slackops01&theme=algolia" alt="slackops01" /></a> </p>
